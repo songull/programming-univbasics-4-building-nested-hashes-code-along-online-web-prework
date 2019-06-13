@@ -1,5 +1,5 @@
 def first_challenge
-   epic_tragedy = {montague: "boss", occupation: "super", hobbies:["lit", "always"]}
+   epic_tragedy = {montague: "boss", capulet: "super", hobbies:["lit", "always"]}
 
    }
 end
